@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <br />
 
-**💬 Ask me about **
+**Ask me about**
 
 - 💼 Full Stack Engineer at [Galleonsoft](https://galleonsoft.com/)
 
