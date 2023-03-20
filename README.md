@@ -29,3 +29,11 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about anything [here](https://github.com/jigarpatel7600/jigarpatel7600/issues)
 
+<br/>
+
+| <a href="https://github.com/jigarpatel7600/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jigarpatel7600&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Jigar's github stats" /></a> | <a href="https://github.com/jigarpatel7600/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jigarpatel7600&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+<br/>
+#### 
+
