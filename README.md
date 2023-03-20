@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+<p align="center"> Hello, I'm Jigar Patel. I do open source!</p>
+
+<br />
+
+**💬 Ask me about **
+
+- 💼 Full Stack Engineer at [Galleonsoft](https://galleonsoft.com/)
+
+- ❤️ I love writing Program, and building fun experiments on code-level
+
+- 💬 Ask me about anything [here](https://github.com/jigarpatel7600/jigarpatel7600/issues)
+
